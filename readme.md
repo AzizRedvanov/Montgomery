@@ -1,4 +1,4 @@
-# Montgomery algorithms to speed up modular multiplication of large numbers in C++
+# Montgomery algorithms to speed up modular multiplication of large numbers in C++(NTL)
 
 "Montgomery.cpp" is a simple Montgomery algorithm
 
